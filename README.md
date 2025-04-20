@@ -1,4 +1,9 @@
 ## Hi there 👋
+I'm Dhruv. I'm a software engineer based in Arlington, VA, with a passion for music and education.
+- 🎓 I graduated from UC San Diego in December 2022, with a B.S. in Mathematics-Computer Science and minors in Cognitive Science & Music. 
+- 🔭 I'm currently working on advancing my skills in DevSecOps and studying for my [CompTIA Security+](https://www.comptia.org/certifications/security) certification.
+- 🌐 My personal website can be found [here](https://dhrvsood.github.io)
+- 📫 You can email me at [dhruvsood27@gmail.com](mailto:dhruvsood27@gmail.com) or reach out to me on my [LinkedIn](https://linkedin.com/in/dhrvsood).
 
 <!--
 **dhrvsood/dhrvsood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
